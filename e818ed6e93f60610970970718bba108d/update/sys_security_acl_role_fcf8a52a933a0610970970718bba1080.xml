@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-17 23:23:41</sys_created_on>
+        <sys_id>fcf8a52a933a0610970970718bba1080</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_147145_finance_c_finance_case.x_147145_finance_c.finance_case_user</sys_name>
+        <sys_package display_value="Finance Case Management" source="x_147145_finance_c">e818ed6e93f60610970970718bba108d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Case Management">e818ed6e93f60610970970718bba108d</sys_scope>
+        <sys_security_acl display_value="x_147145_finance_c_finance_case">30f8a52a933a0610970970718bba107b</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_fcf8a52a933a0610970970718bba1080</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-17 23:23:41</sys_updated_on>
+        <sys_user_role display_value="x_147145_finance_c.finance_case_user" name="x_147145_finance_c.finance_case_user">14f8252a933a0610970970718bba104d</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
