@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Finance Case</name>
+        <order>10</order>
+        <roles>x_147145_finance_c.finance_case_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-17 23:23:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d4f8a52a933a0610970970718bba1020</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Finance Case Management</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Finance Case Management" source="x_147145_finance_c">e818ed6e93f60610970970718bba108d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Case Management">e818ed6e93f60610970970718bba108d</sys_scope>
+        <sys_update_name>sys_app_application_d4f8a52a933a0610970970718bba1020</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-17 23:28:29</sys_updated_on>
+        <title>Finance Case Management</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
