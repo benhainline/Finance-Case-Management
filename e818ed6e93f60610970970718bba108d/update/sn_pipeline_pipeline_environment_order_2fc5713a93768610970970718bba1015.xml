@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_pipeline_pipeline_environment_order">
+    <sn_pipeline_pipeline_environment_order action="INSERT_OR_UPDATE">
+        <environment display_value="Prod">cb55317693768610970970718bba10de</environment>
+        <order>1</order>
+        <pipeline display_value="Finance Case">2485f5f693768610970970718bba105c</pipeline>
+        <sys_class_name>sn_pipeline_pipeline_environment_order</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-18 18:58:32</sys_created_on>
+        <sys_id>2fc5713a93768610970970718bba1015</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Finance Case Management" source="x_147145_finance_c">e818ed6e93f60610970970718bba108d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Case Management">e818ed6e93f60610970970718bba108d</sys_scope>
+        <sys_update_name>sn_pipeline_pipeline_environment_order_2fc5713a93768610970970718bba1015</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-18 18:58:32</sys_updated_on>
+    </sn_pipeline_pipeline_environment_order>
+</record_update>
