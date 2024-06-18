@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="14c8212a933a0610970970718bba10a4" extends="task" label="Finance Case" max_length="40" name="x_147145_finance_c_finance_case" type="collection"/>
+    <element db_object_id="14c8212a933a0610970970718bba10a4" extends="task" label="Finance Case" max_length="40" name="x_147145_finance_c_finance_case" text_index="true" type="collection">
+        <element label="Folder" max_length="128" name="folder" type="string"/>
+    </element>
 </database>

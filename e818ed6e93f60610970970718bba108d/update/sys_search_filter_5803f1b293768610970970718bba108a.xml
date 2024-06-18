@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="Finance Case">1803f1b293768610970970718bba106d</ais_search_source>
+        <label>Finance Case</label>
+        <name>Finance Case</name>
+        <order>100</order>
+        <search_context_config display_value="Finance Case Management AI Search Configuration">ddf27d723a768610d6148700b4fa65d3</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-18 18:46:07</sys_created_on>
+        <sys_id>5803f1b293768610970970718bba108a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Finance Case</sys_name>
+        <sys_package display_value="Finance Case Management" source="x_147145_finance_c">e818ed6e93f60610970970718bba108d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Case Management">e818ed6e93f60610970970718bba108d</sys_scope>
+        <sys_update_name>sys_search_filter_5803f1b293768610970970718bba108a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-18 18:46:07</sys_updated_on>
+    </sys_search_filter>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</contains>
+        <role display_value="x_147145_finance_c.finance_case_user" name="x_147145_finance_c.finance_case_user">14f8252a933a0610970970718bba104d</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-18 18:46:01</sys_created_on>
+        <sys_id>c7f2fd7293768610970970718bba10ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>canvas_user.x_147145_finance_c.finance_case_user</sys_name>
+        <sys_package display_value="Finance Case Management" source="x_147145_finance_c">e818ed6e93f60610970970718bba108d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Case Management">e818ed6e93f60610970970718bba108d</sys_scope>
+        <sys_update_name>sys_user_role_contains_c7f2fd7293768610970970718bba10ed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-18 18:46:01</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

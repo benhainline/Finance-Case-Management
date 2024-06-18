@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_dictionary_override">
+    <sys_dictionary_override action="DELETE">
+        <attributes/>
+        <attributes_override>false</attributes_override>
+        <base_table>task</base_table>
+        <calculation/>
+        <calculation_override>false</calculation_override>
+        <default_value/>
+        <default_value_override>false</default_value_override>
+        <dependent/>
+        <dependent_override>false</dependent_override>
+        <display_override>false</display_override>
+        <element>active</element>
+        <mandatory>false</mandatory>
+        <mandatory_override>false</mandatory_override>
+        <name>x_147145_finance_c_finance_case</name>
+        <read_only>true</read_only>
+        <read_only_override>true</read_only_override>
+        <reference_qual/>
+        <reference_qual_override>false</reference_qual_override>
+        <sys_class_name>sys_dictionary_override</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-18 17:41:34</sys_created_on>
+        <sys_id>0534e1b693f28610970970718bba109d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>active</sys_name>
+        <sys_package display_value="Finance Case Management" source="x_147145_finance_c">e818ed6e93f60610970970718bba108d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Case Management">e818ed6e93f60610970970718bba108d</sys_scope>
+        <sys_update_name>sys_dictionary_override_0534e1b693f28610970970718bba109d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-18 17:41:34</sys_updated_on>
+    </sys_dictionary_override>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Finance Case Management">e818ed6e93f60610970970718bba108d</application>
+        <file_path/>
+        <instance_id>b21543d9db4279d002d9172913961900</instance_id>
+        <instance_name>dev193176</instance_name>
+        <name>sys_dictionary_override_0534e1b693f28610970970718bba109d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_dictionary_override"><sys_dictionary_override action="INSERT_OR_UPDATE"><attributes/><attributes_override>false</attributes_override><base_table>task</base_table><calculation/><calculation_override>false</calculation_override><default_value/><default_value_override>false</default_value_override><dependent/><dependent_override>false</dependent_override><display_override>false</display_override><element>active</element><mandatory>false</mandatory><mandatory_override>false</mandatory_override><name>x_147145_finance_c_finance_case</name><read_only>true</read_only><read_only_override>true</read_only_override><reference_qual/><reference_qual_override>false</reference_qual_override><sys_class_name>sys_dictionary_override</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-18 17:41:34</sys_created_on><sys_id>0534e1b693f28610970970718bba109d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>active</sys_name><sys_package display_value="Finance Case Management" source="x_147145_finance_c">e818ed6e93f60610970970718bba108d</sys_package><sys_policy/><sys_scope display_value="Finance Case Management">e818ed6e93f60610970970718bba108d</sys_scope><sys_update_name>sys_dictionary_override_0534e1b693f28610970970718bba109d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-18 17:41:34</sys_updated_on></sys_dictionary_override></record_update>]]></payload>
+        <payload_hash>-2102901999</payload_hash>
+        <record_name>active</record_name>
+        <reverted_from/>
+        <source>edef29e2937a0610970970718bba1089</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-18 17:41:34</sys_created_on>
+        <sys_id>833425b693f28610970970718bba10e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1902c7097860000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-18 17:41:34</sys_updated_on>
+        <type>Dictionary Entry Override</type>
+        <update_guid>cb34257614f28610a359087cb17b62b5</update_guid>
+        <update_guid_history>cb34257614f28610a359087cb17b62b5:-2102901999</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-18 17:45:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary_override">sys_dictionary_override</sys_db_object>
+        <sys_id>5a4a2049032043a3afe9bee1b5f7dca1</sys_id>
+        <sys_metadata>0534e1b693f28610970970718bba109d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>active</sys_name>
+        <sys_package display_value="Finance Case Management" source="x_147145_finance_c">e818ed6e93f60610970970718bba108d</sys_package>
+        <sys_parent display_value="x_147145_finance_c_finance_case">b0f8a52a933a0610970970718bba1086</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Finance Case Management">e818ed6e93f60610970970718bba108d</sys_scope>
+        <sys_scope_delete display_value="">0bec250b143d42cbabf06003ae5df851</sys_scope_delete>
+        <sys_update_name>sys_dictionary_override_0534e1b693f28610970970718bba109d</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_override_0534e1b693f28610970970718bba109d">833425b693f28610970970718bba10e4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-18 17:45:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

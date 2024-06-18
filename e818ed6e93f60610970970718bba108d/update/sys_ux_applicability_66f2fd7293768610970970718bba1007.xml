@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_147145_finance_c.Audience for app finance-case-management</api_name>
+        <description/>
+        <name>Audience for app finance-case-management</name>
+        <role_names/>
+        <roles>14f8252a933a0610970970718bba104d,06a82de6933a0610970970718bba1083,0aa82d66933a0610970970718bba109f</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-18 18:45:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>66f2fd7293768610970970718bba1007</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for app finance-case-management</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Finance Case Management" source="x_147145_finance_c">e818ed6e93f60610970970718bba108d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Case Management">e818ed6e93f60610970970718bba108d</sys_scope>
+        <sys_update_name>sys_ux_applicability_66f2fd7293768610970970718bba1007</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-18 18:45:59</sys_updated_on>
+    </sys_ux_applicability>
+</record_update>
